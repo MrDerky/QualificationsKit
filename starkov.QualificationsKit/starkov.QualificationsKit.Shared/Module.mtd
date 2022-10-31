@@ -1,0 +1,58 @@
+{
+  "$type": "Sungero.Metadata.SolutionMetadata, Sungero.Metadata",
+  "NameGuid": "be544e36-3e3d-4efe-9a6d-e1ad091d4a39",
+  "Name": "QualificationsKit",
+  "AsyncHandlers": [],
+  "ClientAssemblyName": "starkov.QualificationsKit.Client",
+  "ClientBaseAssemblyName": "starkov.QualificationsKit.ClientBase",
+  "ClientBaseNamespace": "starkov.QualificationsKit.ClientBase",
+  "ClientNamespace": "starkov.QualificationsKit.Client",
+  "Code": "Qualifi",
+  "CompanyCode": "starkov",
+  "Cover": {
+    "NameGuid": "411339ca-c847-4bd6-b4f5-3d7a91c61a4f",
+    "Actions": [],
+    "Background": null,
+    "Footer": {
+      "NameGuid": "5a8c2abc-c2c0-49d7-9b9f-0ecdcc389673",
+      "BackgroundPosition": "Stretch"
+    },
+    "Groups": [],
+    "Header": {
+      "NameGuid": "aad05e7a-ff32-4fd1-b42b-37ba647e0186",
+      "BackgroundPosition": "Stretch"
+    },
+    "Tabs": []
+  },
+  "DesktopViews": [],
+  "IconResourcesKeys": [],
+  "Importance": "Medium",
+  "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "InterfaceNamespace": "starkov.QualificationsKit",
+  "OrderedSpecialFolders": [],
+  "PublicStructures": [],
+  "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "ResourceInterfaceNamespace": "starkov.QualificationsKit",
+  "ResourcesKeys": [],
+  "ServerAssemblyName": "starkov.QualificationsKit.Server",
+  "ServerNamespace": "starkov.QualificationsKit.Server",
+  "SharedAssemblyName": "starkov.QualificationsKit.Shared",
+  "SharedNamespace": "starkov.QualificationsKit.Shared",
+  "SpecialFolders": [],
+  "Version": "0.0.1.0",
+  "Widgets": [],
+  "Versions": [
+    {
+      "Type": "SolutionMetadata",
+      "Number": 8
+    },
+    {
+      "Type": "ModuleMetadata",
+      "Number": 8
+    },
+    {
+      "Type": "DomainApi",
+      "Number": 3
+    }
+  ]
+}

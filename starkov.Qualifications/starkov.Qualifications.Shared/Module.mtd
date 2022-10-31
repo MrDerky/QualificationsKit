@@ -1,0 +1,78 @@
+{
+  "$type": "Sungero.Metadata.ModuleMetadata, Sungero.Metadata",
+  "NameGuid": "2c138cf4-76ea-4547-ba72-6a5ca330571f",
+  "Name": "Qualifications",
+  "AsyncHandlers": [],
+  "ClientAssemblyName": "starkov.Qualifications.Client",
+  "ClientBaseAssemblyName": "starkov.Qualifications.ClientBase",
+  "ClientBaseNamespace": "starkov.Qualifications.ClientBase",
+  "ClientNamespace": "starkov.Qualifications.Client",
+  "Code": "Qualif1",
+  "CompanyCode": "starkov",
+  "Cover": {
+    "NameGuid": "55fdb31e-03a1-4c36-8251-e5a87c56e79f",
+    "Actions": [],
+    "Background": null,
+    "Footer": {
+      "NameGuid": "8907d076-e484-4d10-a508-e392c4f9b0b4",
+      "BackgroundPosition": "Stretch"
+    },
+    "Groups": [],
+    "Header": {
+      "NameGuid": "2a8ae60e-1590-4bd1-b871-95154ff88fee",
+      "BackgroundPosition": "Stretch"
+    },
+    "Tabs": []
+  },
+  "Dependencies": [
+    {
+      "Id": "be544e36-3e3d-4efe-9a6d-e1ad091d4a39",
+      "IsSolutionModule": true,
+      "MaxVersion": "",
+      "MinVersion": ""
+    }
+  ],
+  "ExplorerTreeOrder": [
+    {
+      "ItemId": "60368692-5325-4ef8-8805-5dd9400e5881",
+      "PreviousItemId": "1826afa9-b9bc-41cd-afdc-a911c41e920d"
+    },
+    {
+      "ItemId": "788cc690-b84e-43ed-bb10-357755ed1a9b",
+      "PreviousItemId": "60368692-5325-4ef8-8805-5dd9400e5881"
+    },
+    {
+      "ItemId": "64077c9a-bd1a-4965-8819-0276789d19b6",
+      "PreviousItemId": "788cc690-b84e-43ed-bb10-357755ed1a9b"
+    },
+    {
+      "ItemId": "563dbf51-c528-42e2-9f9a-4e4cff15154d",
+      "PreviousItemId": "64077c9a-bd1a-4965-8819-0276789d19b6"
+    }
+  ],
+  "IconResourcesKeys": [],
+  "Importance": "Medium",
+  "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "InterfaceNamespace": "starkov.Qualifications",
+  "PublicStructures": [],
+  "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "ResourceInterfaceNamespace": "starkov.Qualifications",
+  "ResourcesKeys": [],
+  "ServerAssemblyName": "starkov.Qualifications.Server",
+  "ServerNamespace": "starkov.Qualifications.Server",
+  "SharedAssemblyName": "starkov.Qualifications.Shared",
+  "SharedNamespace": "starkov.Qualifications.Shared",
+  "SpecialFolders": [],
+  "Version": "0.0.1.0",
+  "Widgets": [],
+  "Versions": [
+    {
+      "Type": "ModuleMetadata",
+      "Number": 8
+    },
+    {
+      "Type": "DomainApi",
+      "Number": 3
+    }
+  ]
+}
