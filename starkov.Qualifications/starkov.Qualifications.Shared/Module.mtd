@@ -11,18 +11,54 @@
   "CompanyCode": "starkov",
   "Cover": {
     "NameGuid": "55fdb31e-03a1-4c36-8251-e5a87c56e79f",
-    "Actions": [],
+    "Actions": [
+      {
+        "$type": "Sungero.Metadata.CoverEntityListActionMetadata, Sungero.Metadata",
+        "NameGuid": "391d617f-74fa-4df8-a117-63a49ef1236f",
+        "Name": "CompetenceModel",
+        "EntityTypeId": "563dbf51-c528-42e2-9f9a-4e4cff15154d",
+        "GroupId": "ba45dbcf-4d7b-4b87-ba1f-6bc7aa3cdc09",
+        "PreviousItemGuid": "aa4f16b2-ce59-4865-a211-c6506b98579d"
+      },
+      {
+        "$type": "Sungero.Metadata.CoverEntityListActionMetadata, Sungero.Metadata",
+        "NameGuid": "44667628-08e3-4af5-bafe-d37fb78da2bb",
+        "Name": "CompetenceKind",
+        "EntityTypeId": "64077c9a-bd1a-4965-8819-0276789d19b6",
+        "GroupId": "ba45dbcf-4d7b-4b87-ba1f-6bc7aa3cdc09",
+        "PreviousItemGuid": "391d617f-74fa-4df8-a117-63a49ef1236f"
+      },
+      {
+        "$type": "Sungero.Metadata.CoverEntityListActionMetadata, Sungero.Metadata",
+        "NameGuid": "aa4f16b2-ce59-4865-a211-c6506b98579d",
+        "Name": "CategoryLevels",
+        "EntityTypeId": "1a071bcc-e6a5-4325-bb91-7328f81e4961",
+        "GroupId": "ba45dbcf-4d7b-4b87-ba1f-6bc7aa3cdc09"
+      }
+    ],
     "Background": null,
     "Footer": {
       "NameGuid": "8907d076-e484-4d10-a508-e392c4f9b0b4",
       "BackgroundPosition": "Stretch"
     },
-    "Groups": [],
+    "Groups": [
+      {
+        "NameGuid": "ba45dbcf-4d7b-4b87-ba1f-6bc7aa3cdc09",
+        "Name": "Group",
+        "BackgroundPosition": "Stretch",
+        "TabId": "e8056bcb-bdf4-4813-9de6-2313ff3f2273"
+      }
+    ],
     "Header": {
       "NameGuid": "2a8ae60e-1590-4bd1-b871-95154ff88fee",
       "BackgroundPosition": "Stretch"
     },
-    "Tabs": []
+    "Tabs": [
+      {
+        "NameGuid": "e8056bcb-bdf4-4813-9de6-2313ff3f2273",
+        "Name": "Main"
+      }
+    ]
   },
   "Dependencies": [
     {
@@ -48,6 +84,10 @@
     {
       "ItemId": "563dbf51-c528-42e2-9f9a-4e4cff15154d",
       "PreviousItemId": "64077c9a-bd1a-4965-8819-0276789d19b6"
+    },
+    {
+      "ItemId": "1a071bcc-e6a5-4325-bb91-7328f81e4961",
+      "PreviousItemId": "563dbf51-c528-42e2-9f9a-4e4cff15154d"
     }
   ],
   "IconResourcesKeys": [],

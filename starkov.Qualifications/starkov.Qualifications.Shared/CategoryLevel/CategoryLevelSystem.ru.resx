@@ -58,7 +58,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DisplayName" xml:space="preserve">
-    <value>Квалификации</value>
+  <data name="Property_Name" xml:space="preserve">
+    <value>Имя</value>
+  </data>
+  <data name="Property_JobTitles" xml:space="preserve">
+    <value>Должности для категории</value>
+  </data>
+  <data name="Property_Level" xml:space="preserve">
+    <value>Уровень</value>
+  </data>
+  <data name="Property_Unit" xml:space="preserve">
+    <value>Наименование</value>
+  </data>
+  <data name="Control_86fe19ec172044eea94f6dbe65799552_EmptyText" xml:space="preserve">
+    <value>Пример: Категория, Разряд и т.п.</value>
   </data>
 </root>

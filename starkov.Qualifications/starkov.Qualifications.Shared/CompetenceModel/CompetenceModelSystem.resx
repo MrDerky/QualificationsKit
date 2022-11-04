@@ -67,11 +67,8 @@
   <data name="Property_Competencies" xml:space="preserve">
     <value>Competencies</value>
   </data>
-  <data name="Property_LevelName" xml:space="preserve">
-    <value>Qualification level</value>
-  </data>
-  <data name="Property_LevelNumber" xml:space="preserve">
-    <value>Level in order</value>
+  <data name="Property_Level" xml:space="preserve">
+    <value>Level</value>
   </data>
   <data name="ControlGroup_6be57a0910324adf937de7cfb670c6bf" xml:space="preserve">
     <value>Схема</value>

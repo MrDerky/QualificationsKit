@@ -64,11 +64,8 @@
   <data name="Property_JobTitle" xml:space="preserve">
     <value>Должность</value>
   </data>
-  <data name="Property_LevelName" xml:space="preserve">
-    <value>Название уровня квалификации</value>
-  </data>
-  <data name="Property_LevelNumber" xml:space="preserve">
-    <value>Уровень по порядку</value>
+  <data name="Property_Level" xml:space="preserve">
+    <value>Уровень</value>
   </data>
   <data name="Property_Competencies" xml:space="preserve">
     <value>Компетенции</value>

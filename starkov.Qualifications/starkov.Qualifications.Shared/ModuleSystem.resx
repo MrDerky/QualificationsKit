@@ -64,4 +64,28 @@
   <data name="CoverTitle" xml:space="preserve">
     <value>Qualifications</value>
   </data>
+  <data name="CoverTab_Main" xml:space="preserve">
+    <value>Main</value>
+  </data>
+  <data name="CoverGroup_Group" xml:space="preserve">
+    <value>Group</value>
+  </data>
+  <data name="CoverAction_CategoryLevels" xml:space="preserve">
+    <value>Уровни категорий</value>
+  </data>
+  <data name="CoverDescription_CategoryLevels" xml:space="preserve">
+    <value>Уровни категорий</value>
+  </data>
+  <data name="CoverAction_CompetenceModel" xml:space="preserve">
+    <value>CompetenceModel</value>
+  </data>
+  <data name="CoverDescription_CompetenceModel" xml:space="preserve">
+    <value />
+  </data>
+  <data name="CoverAction_CompetenceKind" xml:space="preserve">
+    <value>CompetenceKind</value>
+  </data>
+  <data name="CoverDescription_CompetenceKind" xml:space="preserve">
+    <value />
+  </data>
 </root>

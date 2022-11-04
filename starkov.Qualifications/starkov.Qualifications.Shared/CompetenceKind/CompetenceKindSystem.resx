@@ -62,6 +62,15 @@
     <value>Name</value>
   </data>
   <data name="DisplayName" xml:space="preserve">
-    <value>Компетенция</value>
+    <value>Competence</value>
+  </data>
+  <data name="AccusativeDisplayName" xml:space="preserve">
+    <value>Competence</value>
+  </data>
+  <data name="CollectionDisplayName" xml:space="preserve">
+    <value>Competences</value>
+  </data>
+  <data name="Property_CompetenceGroup" xml:space="preserve">
+    <value>Competence group</value>
   </data>
 </root>

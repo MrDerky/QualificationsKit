@@ -4,7 +4,7 @@ using System.Linq;
 using Sungero.Core;
 using Sungero.CoreEntities;
 
-namespace starkov.Qualifications.Structures.CompetenceCategory
+namespace starkov.Qualifications.Structures.CompetenceGroup
 {
 
 }

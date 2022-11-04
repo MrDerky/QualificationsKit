@@ -1,0 +1,60 @@
+{
+  "$type": "Sungero.Metadata.EntityMetadata, Sungero.Metadata",
+  "NameGuid": "0ea14ce9-433b-4b06-867f-ed8bcf2ff361",
+  "Name": "CategoryLevelJobTitles",
+  "AccessRightsMode": "NoRight",
+  "BaseGuid": "a3d38bf5-0414-41f6-bb33-a4621d2e5a60",
+  "CanBeNavigationPropertyType": true,
+  "Code": "CategoryLevelJ",
+  "ExtraSearchProperties": [],
+  "IsChildEntity": true,
+  "Properties": [
+    {
+      "$type": "Sungero.Metadata.NavigationPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "d7138656-5700-451d-978a-e1e31468ecfd",
+      "Name": "CategoryLevel",
+      "CanBeSearch": false,
+      "Code": "CategoryLevel",
+      "EntityGuid": "1a071bcc-e6a5-4325-bb91-7328f81e4961",
+      "IsReferenceToRootEntity": true,
+      "IsShowedInList": false
+    },
+    {
+      "$type": "Sungero.Metadata.NavigationPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "d14faa06-80cc-4642-a358-8409188aeb1b",
+      "Name": "JobTitle",
+      "Code": "JobTitle",
+      "EntityGuid": "4a37aec4-764c-4c14-8887-e1ecafa5b4c5",
+      "FlatListInStandaloneLookup": true,
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
+      "PreviousPropertyGuid": "d7138656-5700-451d-978a-e1e31468ecfd",
+      "Versions": []
+    }
+  ],
+  "PublicStructures": [],
+  "RibbonCardMetadata": {
+    "NameGuid": "5e2e8690-d2dd-47d6-8a4e-a92ad0adbce7",
+    "Name": "RibbonCard",
+    "Categories": [],
+    "Elements": [],
+    "Groups": [],
+    "IsAncestorMetadata": true,
+    "Pages": [],
+    "RibbonKind": "Card"
+  },
+  "RibbonCollectionMetadata": {
+    "NameGuid": "47b77888-8239-4ca9-8e73-18f27d7d2a60",
+    "Name": "RibbonCollection",
+    "Categories": [],
+    "Elements": [],
+    "Groups": [],
+    "IsAncestorMetadata": true,
+    "Pages": []
+  },
+  "Versions": [
+    {
+      "Type": "EntityMetadata",
+      "Number": 11
+    }
+  ]
+}

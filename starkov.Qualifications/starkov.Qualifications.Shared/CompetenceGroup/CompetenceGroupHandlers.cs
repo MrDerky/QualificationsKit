@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using Sungero.Core;
 using Sungero.CoreEntities;
-using starkov.Qualifications.CompetenceCategory;
+using starkov.Qualifications.CompetenceGroup;
 
 namespace starkov.Qualifications
 {
-  partial class CompetenceCategorySharedHandlers
+  partial class CompetenceGroupSharedHandlers
   {
 
   }

@@ -3,7 +3,7 @@ using Sungero.Core;
 
 namespace starkov.Qualifications.Constants
 {
-  public static class CompetenceCategory
+  public static class CompetenceGroup
   {
 
   }
